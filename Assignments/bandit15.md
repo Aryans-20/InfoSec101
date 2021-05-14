@@ -3,7 +3,7 @@
 
 Author: [Aryan Sharma](https://github.com/Aryans-20)
 
-Problem Page: [bandit11](https://overthewire.org/wargames/bandit/bandit16.html) (Change this link accordingly)
+Problem Page: [bandit11](https://overthewire.org/wargames/bandit/bandit16.html)
 
 ## List of Commands Used
 ```
@@ -18,7 +18,5 @@ So later I had to fill in the password manually. Could not automate the process 
 `cluFn7wTiGryunymYOu4RcffSxQluehd`
 
 ## Bash/Python script to automate the process
-```
-\#! /bin/bash
-openssl s_client -connect localhost:30001
-```
+"#! /bin/bash"
+"openssl s_client -connect localhost:30001"
