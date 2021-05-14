@@ -18,11 +18,8 @@ So later I had to fill in the password manually. Could not automate the process 
 `cluFn7wTiGryunymYOu4RcffSxQluehd`
 
 ## Bash/Python script to automate the process
-'''
-
+```
 #! /bin/bash
-
-
 openssl s_client -connect localhost:30001
 
-'''
+```
