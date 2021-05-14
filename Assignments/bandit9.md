@@ -18,8 +18,8 @@ Read about all the commands required to solve the level. Initially I only used "
 `truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`
 
 ## Bash/Python script to automate the process
-'''
+```
 #! /bin/bash"
 strings data.txt | grep "&=" 
 
-'''
+```
